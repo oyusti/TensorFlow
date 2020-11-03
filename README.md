@@ -15,6 +15,7 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
 * The conversion tool
 * Alternative variable scoping
   
+ESTO ES UNA PRUEBA DE USO DE GIT
 
 ## Eager Execution
 
